@@ -24,3 +24,25 @@ git clone https://github.com/your-username/word-char-counter.git
 ```
 cd word-char-counter
 open index.html
+
+🧾 How It Works
+The input area captures text in real-time.
+
+JavaScript calculates the total number of words and characters.
+
+The results are displayed immediately below the input field.
+
+📂 Project Structure
+pgsql
+Copier
+Modifier
+├── index.html
+├── style.css
+└── script.js
+👨‍💻 Author
+Made with ❤️ by DHYAA.
+
+📃 License
+This project is licensed under the MIT License — feel free to use and modify it for your own projects.
+
+
