@@ -25,23 +25,20 @@ open index.html
 ```
 ##🧾 How It Works  
 
-<li>The input area captures text in real-time.</li>
+<li>The input area captures text in real-time.</li>  
 
-JavaScript calculates the total number of words and characters.
+<li>JavaScript calculates the total number of words and characters.</li>  
 
-The results are displayed immediately below the input field.
+<li>The results are displayed immediately below the input field.</li>  
 
-📂 Project Structure
-pgsql
-Copier
-Modifier
+##📂 Project Structure  
+
 ├── index.html
 ├── style.css
-└── script.js
-👨‍💻 Author
-Made with ❤️ by DHYAA.
+└── script.js  
 
-📃 License
+##📃 License  
+
 This project is licensed under the MIT License — feel free to use and modify it for your own projects.
 
 
