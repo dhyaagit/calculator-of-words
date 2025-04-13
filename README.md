@@ -23,8 +23,9 @@ cd word-char-counter
 
 open index.html
 ```
-🧾 How It Works
-The input area captures text in real-time.
+##🧾 How It Works  
+
+<li>The input area captures text in real-time.</li>
 
 JavaScript calculates the total number of words and characters.
 
