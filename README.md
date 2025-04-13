@@ -1,6 +1,6 @@
 # 📝 Word & Character Counter Tool
 
-This is a simple yet effective web-based tool that allows users to count the number of **words** and **characters** in any text input. Designed with a clean and modern UI, it provides real-time updates as the user types.
+This is a simple yet effective web-based tool that allows users to count the number of **words** and **characters** in any text input. It provides real-time updates as the user types.
 
 ## 📸 Preview
 
