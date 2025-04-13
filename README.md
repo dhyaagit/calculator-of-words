@@ -17,8 +17,10 @@ Follow these steps to use or modify the tool locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/word-char-counter.git  
+git clone https://github.com/your-username/word-char-counter.git
+
 cd word-char-counter  
+
 open index.html
 ```
 🧾 How It Works
