@@ -21,3 +21,6 @@ Follow these steps to use or modify the tool locally:
 
 ```bash
 git clone https://github.com/your-username/word-char-counter.git
+```
+cd word-char-counter
+open index.html
