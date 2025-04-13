@@ -31,10 +31,11 @@ open index.html
 
 <li>The results are displayed immediately below the input field.</li>  
 
+
 ##📂 Project Structure  
 
-├── index.html
-├── style.css
+├── index.html  
+├── style.css  
 └── script.js  
 
 ##📃 License  
