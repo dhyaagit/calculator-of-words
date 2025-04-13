@@ -2,9 +2,6 @@
 
 This is a simple yet effective web-based tool that allows users to count the number of **words** and **characters** in any text input. It provides real-time updates as the user types.
 
-## 📸 Preview
-
-![App Screenshot](./Screenshot%202025-04-14%20003008.png)
 
 ## ✨ Features
 
